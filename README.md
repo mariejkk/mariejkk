@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Jhokaime Alvarez
+  Hola, Soy Jhokaime Alvarez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -15,9 +15,9 @@
 
 <img align="right" width="280px" alt="Coding GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;***Sobre mi***
 
-¡Hola! Soy estudiante de **Desarrollo de Software** apasionada por crear soluciones web, arquitectura backend y diseño de interfaces. Me encanta aprender constantemente y construir proyectos funcionales y limpios.
+Soy estudiante de **Desarrollo de Software** apasionada por crear soluciones web, arquitectura backend y diseño de interfaces. Me encanta aprender constantemente y construir proyectos funcionales y limpios.
 
 * 🎓 Estudiando **Desarrollo de Software**
 * 💻 Enfocada en **Desarrollo Web (Backend & Frontend)** y diseño **UI/UX**
