@@ -23,7 +23,7 @@
 * 💻 Enfocada en **Desarrollo Web (Backend & Frontend)** y diseño **UI/UX**
 * 🌱 Actualmente profundizando en **C# (.NET), JavaScript, Python y bases de datos**
 * 👯 Abierta a colaborar en proyectos de código abierto
-* 📫 Puedes contactarme en: **tu-email@correo.com**
+* 📫 Puedes contactarme en: **marie852006@gmail.com**
 
 ---
 
