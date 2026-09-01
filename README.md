@@ -26,14 +26,14 @@ Soy estudiante de **Desarrollo de Software** apasionada por crear soluciones web
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Stack técnico
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,py,js,html,css,figma,postman,git,vscode" />
 </p>
 
 <p align="center">
-  <h2>🚀 Proyectos Destacados</h2>
+  <h2>🚀 Proyecto Destacado</h2>
 </p>
 
 <table align="center">
