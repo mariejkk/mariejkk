@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**mariejkk/mariejkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Hi, I'm Jhokaime Alvarez
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Desarrolladora+de+Software;C%23+%7C+.NET+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="280px" alt="Coding GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;***About me***
+
+¡Hola! Soy estudiante de **Desarrollo de Software** apasionada por crear soluciones web, arquitectura backend y diseño de interfaces. Me encanta aprender constantemente y construir proyectos funcionales y limpios.
+
+* 🎓 Estudiando **Desarrollo de Software**
+* 💻 Enfocada en **Desarrollo Web (Backend & Frontend)** y diseño **UI/UX**
+* 🌱 Actualmente profundizando en **C# (.NET), JavaScript, Python y bases de datos**
+* 👯 Abierta a colaborar en proyectos de código abierto
+* 📫 Puedes contactarme en: **tu-email@correo.com**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,py,js,html,css,figma,postman,git,vscode" />
+</p>
+
+## 📊 Estadísticas
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api?username=mariejkk&theme=dark&height=165" height="165" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariejkk&layout=compact&theme=dark&height=165" height="165" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
