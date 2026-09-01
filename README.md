@@ -33,6 +33,30 @@
   <img src="https://skillicons.dev/icons?i=cs,py,js,html,css,figma,postman,git,vscode" />
 </p>
 
+<p align="center">
+  <h2>🚀 Proyectos Destacados</h2>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3><b>SewControl</b></h3>
+      <br />
+      <a href="http://sewcontrol-api.somee.com/swagger/index.html">
+        <img src="https://github.com/user-attachments/assets/a3223eb4-2622-4d6f-8efa-347ee056a8c1" width="65%" alt="Vista previa de SewControl" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/mariejkk/SewControl">
+        <img src="https://img.shields.io/badge/GitHub-CÓDIGO-black?style=for-the-badge&logo=github&logoColor=white" alt="Botón Código GitHub" />
+      </a>
+      &nbsp;
+      <a href="http://sewcontrol-api.somee.com/swagger/index.html">
+        <img src="https://img.shields.io/badge/API-SOMEE-blue?style=for-the-badge&logo=dotnet&logoColor=white" alt="Despliegue SewControl" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📊 Estadísticas
 
 <table align="center">
@@ -45,3 +69,5 @@
     </td>
   </tr>
 </table>
+
+
