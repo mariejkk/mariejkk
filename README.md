@@ -23,7 +23,6 @@
 * 💻 Enfocada en **Desarrollo Web (Backend & Frontend)** y diseño **UI/UX**
 * 🌱 Actualmente profundizando en **C# (.NET), JavaScript, Python y bases de datos**
 * 👯 Abierta a colaborar en proyectos de código abierto
-* 📫 Puedes contactarme en: **marie852006@gmail.com**
 
 ---
 
@@ -41,9 +40,12 @@
   <tr>
     <td align="center">
       <h3><b>SewControl</b></h3>
+      <p align="left">
+        Sistema de gestión para talleres de confección. API REST con <b>.NET Core</b>, <b>EF Core</b> y <b>SQL Server</b> desplegada en <b>Somee</b> para administrar clientes, prendas y órdenes.
+      </p>
       <br />
       <a href="http://sewcontrol-api.somee.com/swagger/index.html">
-        <img src="https://github.com/user-attachments/assets/a3223eb4-2622-4d6f-8efa-347ee056a8c1" width="65%" alt="Vista previa de SewControl" />
+        <img src="https://github.com/user-attachments/assets/a3223eb4-2622-4d6f-8efa-347ee056a8c1" width="100%" alt="Vista previa de SewControl" />
       </a>
       <br /><br />
       <a href="https://github.com/mariejkk/SewControl">
@@ -56,7 +58,6 @@
     </td>
   </tr>
 </table>
-
 ## 📊 Estadísticas
 
 <table align="center">
