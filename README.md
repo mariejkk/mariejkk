@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img align="right" width="300px" alt="Chat with herF" src= "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
+<img align="right" width="300px" alt="Chat with her" src= "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;***Sobre mi***
 
